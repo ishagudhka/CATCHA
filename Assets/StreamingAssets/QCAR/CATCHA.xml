@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Round1_Cow" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Deer" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Rabbit" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Giraffe" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Dog" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Elephant" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Bear" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Cat" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Tiger" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Zebra" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Lion" size="10.000000 10.000000" />
+    <ImageTarget name="Round1_Pig" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>

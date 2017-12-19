@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATCHA.Plugins", "CATCHA.Plugins.csproj", "{88E7186F-73B5-BCF8-4AE4-72039D06980E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATCHA", "CATCHA.csproj", "{0810C88A-F6F0-B498-AF40-9191B518781E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATCHA.Editor", "CATCHA.Editor.csproj", "{AE501DD3-0400-40D9-8297-62AD09DDC91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E7186F-73B5-BCF8-4AE4-72039D06980E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E7186F-73B5-BCF8-4AE4-72039D06980E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E7186F-73B5-BCF8-4AE4-72039D06980E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E7186F-73B5-BCF8-4AE4-72039D06980E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0810C88A-F6F0-B498-AF40-9191B518781E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0810C88A-F6F0-B498-AF40-9191B518781E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0810C88A-F6F0-B498-AF40-9191B518781E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0810C88A-F6F0-B498-AF40-9191B518781E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE501DD3-0400-40D9-8297-62AD09DDC91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE501DD3-0400-40D9-8297-62AD09DDC91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE501DD3-0400-40D9-8297-62AD09DDC91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE501DD3-0400-40D9-8297-62AD09DDC91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
